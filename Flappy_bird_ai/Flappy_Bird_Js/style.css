@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+    
+}
+.buttons{
+   
+    display:inline;
+}
+#game-window{
+    background-color: skyblue;
+    
+}
